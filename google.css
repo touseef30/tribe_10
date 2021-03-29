@@ -1,0 +1,86 @@
+
+.navbar-custom {
+	background-color: rgb(25, 87, 87);
+}
+.nav-link-custom {
+    color: white;
+}
+.nav-link-custom:hover{
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-left: 5px;
+    background-color: rgb(25, 87, 87);
+    color: azure;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.logo{
+    color: azure;
+    font-size: 40px;
+}
+
+.toggle-icon{
+    color: azure;
+}
+
+.navbar-text-custom{
+    color:black;
+    font-size: 24px;
+    margin-left: 100px;
+}
+.card-section{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.card-col{
+    width: 350px;
+}
+.enroll-button{
+    margin-top: 10px;
+}
+.footer-text {
+    color:azure;
+}
+.card-header{
+    background-color: rgb(25, 87, 87);
+}
+.card-header-text{
+    color: azure;
+}
+/* .card-footer-custom {
+    background-color: rgb(61, 100, 100);
+} */
+/* .list-group{
+    background-color: azure;
+    color: azure;
+} */
+.list-group-item{
+    /* background-color: rgb(25, 87, 87); */
+    color: rgb(25, 87, 87);
+}
+.features{
+    margin-left: 10px;
+}
+.page-link{
+    color: rgb(25, 87, 87);
+}
+.page-link:hover{
+    background-color:gold;
+    color: rgb(25, 87, 87);
+}
+.pages{
+    margin-top: 100px;
+}
+.footer{
+    background-color: rgb(25, 87, 87);
+}
+.fa-copyright{
+    color: azure;
+}
+.footer-content{
+    color: azure;
+}
+

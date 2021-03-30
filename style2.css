@@ -1,0 +1,45 @@
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+    height: 300px;
+}
+.img img
+{
+filter: blur(0.5px);
+}
+.form
+{
+    margin-left: 2rem;
+}
+.one
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height:300px;
+}
+/* .button{
+    margin-top: 3rem;
+} */
+.button button{
+    border: none;
+    border-radius: 1em;
+    color:white;
+    background-color: #cf73db;
+    padding: 0.5em 2em;
+}
+input{
+    border:none;
+    border-bottom: 1px solid black;
+}
+.hide
+{
+    display: none;
+}
+.hide p{
+    color:red;
+}
